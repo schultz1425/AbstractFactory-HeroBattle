@@ -1,0 +1,12 @@
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\bin\Debug\net6.0\FactoryLib.deps.json
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\bin\Debug\net6.0\FactoryLib.dll
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\bin\Debug\net6.0\FactoryLib.pdb
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\obj\Debug\net6.0\FactoryLib.csproj.AssemblyReference.cache
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\obj\Debug\net6.0\FactoryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\obj\Debug\net6.0\FactoryLib.AssemblyInfoInputs.cache
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\obj\Debug\net6.0\FactoryLib.AssemblyInfo.cs
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\obj\Debug\net6.0\FactoryLib.csproj.CoreCompileInputs.cache
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\obj\Debug\net6.0\FactoryLib.dll
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\obj\Debug\net6.0\refint\FactoryLib.dll
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\obj\Debug\net6.0\FactoryLib.pdb
+C:\1a\Колледж\КПЗ\AbstractFactory\FactoryLib\obj\Debug\net6.0\ref\FactoryLib.dll
